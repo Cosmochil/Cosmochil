@@ -1,5 +1,5 @@
 # :wave:(・_・)
-
+![Metrics](https://github.com/Cosmochil/Cosmochil/blob/main/github-metrics.svg)
 
 
 
