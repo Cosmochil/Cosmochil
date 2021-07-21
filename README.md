@@ -1,6 +1,6 @@
 # :wave:(・_・)
-<img display="float" align="right" width="300" src="https://raw.githubusercontent.com/Cosmochil/Cosmochil/main/spidey.png">
 ![Metrics](https://github.com/Cosmochil/Cosmochil/blob/main/github-metrics.svg)
+<img display="float" align="right" width="300" src="https://raw.githubusercontent.com/Cosmochil/Cosmochil/main/spidey.png">
 
 
 
