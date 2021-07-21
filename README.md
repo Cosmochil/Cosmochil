@@ -1,5 +1,5 @@
 # :wave:(・_・)
-![Metrics](https://github.com/Cosmochil/Cosmochil/blob/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/Cosmochil?template=classic&isocalendar=1&languages=1&introduction=1&gists=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FJakarta)
 <img display="float" align="right" width="300" src="https://raw.githubusercontent.com/Cosmochil/Cosmochil/main/spidey.png">
 
 
